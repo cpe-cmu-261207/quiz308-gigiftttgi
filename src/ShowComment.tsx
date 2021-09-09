@@ -33,9 +33,6 @@ export const Showcomment = () => {
             <Showre re = {a.replies}/>
             </div> 
           )}
-
-
-
         </div> )
 
 }

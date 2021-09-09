@@ -28,8 +28,6 @@ export const Showre : React.FC<prop> = ({re}) => {
               { ckecklike(a.likeNum) }
               </div>
               </div>)
-
-            
         }
           
             </div>
